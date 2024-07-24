@@ -75,17 +75,16 @@
 				"kdeplasma-addons",
 				"plasma-wallpapers-dynamic"
 			],
-            "sericea": [
-                "gnome-keyring",
-                "seahorse",
-                "mako",
-                "pavucontrol",
-                "wofi",
-                "swaylock",
-                "waybar",
-                "grimshot",
-                "brightnessctl"
-            ],
+			"sericea": [
+				"gnome-keyring",
+				"mako",
+				"pavucontrol",
+				"wofi",
+				"swaylock",
+				"waybar",
+				"grimshot",
+				"brightnessctl"
+			],
 			"dx": [
 				"adobe-source-code-pro-fonts",
 				"android-tools",
@@ -166,6 +165,9 @@
 				"krfb",
 				"krfb-libs",
 				"plasma-welcome"
+			],
+			"sericea": [
+				"rofi"
 			],
 			"dx": []
 		}
