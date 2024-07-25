@@ -167,10 +167,7 @@
 				"plasma-welcome"
 			],
 			"sericea": [
-				"rofi",
-				"rofi-themes",
-				"rofi-wayland",
-				"google*"
+				"rofi*",
 			],
 			"dx": []
 		}
